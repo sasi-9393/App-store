@@ -1,0 +1,20 @@
+.item {
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  width: 175px;
+  margin: 12px;
+  font-family: 'Bree serif';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.img-item {
+  width: 80%;
+}
+p {
+  font-size: 22px;
+}

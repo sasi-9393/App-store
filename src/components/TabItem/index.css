@@ -1,0 +1,16 @@
+.btn {
+  background-color: transparent;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-bottom: 1px solid #7b8794;
+  margin: 0px;
+  font-family: 'Bree serif';
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.special {
+  border-bottom: 1px solid #2563eb;
+  color: #2563eb;
+}
